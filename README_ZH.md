@@ -12,9 +12,9 @@
 
 ## ❤️ 合作
 
-[![MiniMax](assets/partners/minimax_25.png)](https://platform.minimaxi.com/subscribe/coding-plan?code=6uFnRx7O0W&source=link)
+[![MiniMax](assets/partners/minimax_25cn.png)](https://platform.minimaxi.com/subscribe/coding-plan?code=6uFnRx7O0W&source=link)
 
-MiniMax-M2.5 是一款面向真实生产力场景设计的 SOTA 大型语言模型。它在多种复杂的真实数字化工作环境中进行训练，在 M2.1 编码能力的基础上进一步扩展至通用办公场景，能够熟练生成和操作 Word、Excel 和 PowerPoint 文件，在不同软件环境之间进行上下文切换，并与不同的智能体及人类团队协同工作。在 SWE-Bench Verified 上取得 80.2% 的成绩，在 Multi-SWE-Bench 上取得 51.3%，在 BrowseComp 上取得 76.3%。同时，M2.5 相比前代模型在 token 使用上更加高效，通过规划机制优化了自身的行动与输出。
+MiniMax M2.5 在编程、工具调用与搜索、办公等核心生产力场景均达到或刷新行业 SOTA，拥有架构师级代码能力与高效任务拆解能力，推理速度较上一代提升 37%、token 消耗更优；100 token/s 连续工作一小时仅需 1 美金，让复杂 Agent 规模化部署经济可行，已在企业多职能场景深度落地，加速全民 Agent 时代到来。
 
 [点击](https://platform.minimaxi.com/subscribe/coding-plan?code=6uFnRx7O0W&source=link)即可享受 MiniMax 编程计划专属 12% 折扣
 
