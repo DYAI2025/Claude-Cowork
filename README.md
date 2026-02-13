@@ -12,10 +12,9 @@
 
 ## ❤️ Collaboration
 
-[![MiniMax](assets/partners/minimax_banner.jpg)](https://platform.minimax.io/subscribe/coding-plan?code=5q2B2ljfdw&source=link)
+[![MiniMax](assets/partners/minimax_25.png)](https://platform.minimax.io/subscribe/coding-plan?code=5q2B2ljfdw&source=link)
 
-MiniMax-M2.5 is an open-source SOTA model that excels at coding, navigating digital environments, and handling long, multi-step tasks.
-With Open Source Claude Cowork, M2.5 takes a concrete step toward our long-term vision of general-purpose productivity, making advanced AI capabilities accessible to everyone. 
+MiniMax-M2.5 is a SOTA large language model designed for real-world productivity. Trained in a diverse range of complex real-world digital working environments, M2.5 builds upon the coding expertise of M2.1 to extend into general office work, reaching fluency in generating and operating Word, Excel, and Powerpoint files, context switching between diverse software environments, and working across different agent and human teams. Scoring 80.2% on SWE-Bench Verified, 51.3% on Multi-SWE-Bench, and 76.3% on BrowseComp, M2.5 is also more token efficient than previous generations, having been trained to optimize its actions and output through planning.
 
 [Click ](https://platform.minimax.io/subscribe/coding-plan?code=5q2B2ljfdw&source=link) to get an exclusive 12% off the MiniMax Coding Plan
 
